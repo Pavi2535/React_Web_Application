@@ -48,4 +48,16 @@ The app will start on http://localhost:3000
 
 
 ![Image](https://github.com/user-attachments/assets/c1a1851b-c3ae-4a3e-9177-bca8fbceac80)
--Home Page
+Home Page
+
+![Image](https://github.com/user-attachments/assets/a3929ef1-cbbe-4d42-a66b-535f11588aa7)
+About Page
+
+![Image](https://github.com/user-attachments/assets/398ae836-fc7b-453d-ba8c-226004447541)
+Service Page
+
+![Image](https://github.com/user-attachments/assets/3551501a-b30e-47c1-a1fd-ab1d5d3f5a14)
+Portfolio Page
+
+![Image](https://github.com/user-attachments/assets/75cf44d5-ea75-4ebd-bd02-a9c73c3b841e)
+Contact Page
