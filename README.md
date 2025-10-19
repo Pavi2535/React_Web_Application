@@ -32,25 +32,17 @@ Before you begin, ensure you have the following installed:
    - git clone https://github.com/Pavi2535/React_Web_Application
    
 2. **Navigate to the project directory**
-   - ```bash
-   cd React_Web_Application
-   ```
-   
+   - cd React_Web_Application
+     
 3. **Create a new React app**
-   - ```bash
-   npx create-react-app ecoders
-   ```
-      
+   -  npx create-react-app ecoders
+   
 4. **Move into the React app folder**
-   - ```bash
-   cd ecoders
-   ```
-   
+   - cd ecoders
+  
 5. **Start the development server**
-   - ```bash
-   npm start
-   ```
-   
+   - npm start
+
 The app will start on http://localhost:3000
  
 
