@@ -29,9 +29,7 @@ Before you begin, ensure you have the following installed:
 ### ⚙️ Setup Instructions
 
 1. **Clone the repository**
-   - ```bash
-   git clone https://github.com/Pavi2535/React_Web_Application
-   ```
+   - git clone https://github.com/Pavi2535/React_Web_Application
    
 2. **Navigate to the project directory**
    - ```bash
